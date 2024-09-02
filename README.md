@@ -52,6 +52,9 @@ void loop() {
 ### LAMP ON
 <p align="center"><img src="https://github.com/user-attachments/assets/417d6246-fc30-4f26-b946-8040279133fd" alt="Description" width="800" height="500"></p>
 
+
+
+
 ### LAMP OFF
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2751cfef-7007-4ed0-9e28-d2167fecf545" alt="Description" width="800" height="500">
