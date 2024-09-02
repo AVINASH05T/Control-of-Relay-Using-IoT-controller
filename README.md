@@ -45,17 +45,17 @@ void loop() {
   delay(1000);
 }
 ```
-<Br>
+<hr>
 
 ## CIRCUIT DIAGRAM:
 <p align="center"><img src="https://github.com/user-attachments/assets/64e34fd8-822a-4796-b6d6-41ce10e58623" alt="Description" width="800" height="500"></p>
 
-<br>
+<hr>
 
 ## OUTPUT:
 ### LAMP ON
 <p align="center"><img src="https://github.com/user-attachments/assets/417d6246-fc30-4f26-b946-8040279133fd" alt="Description" width="800" height="500"></p>
-<br>
+<hr>
 
 ### LAMP OFF
 <p align="center">
